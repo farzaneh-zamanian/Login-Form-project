@@ -26,13 +26,11 @@ body {
   height: 600px;
   background-color: #ecf0f3;
   border-radius: 60px;
-  /* dar in halat mitavan 2 shadoww be form bedagim manfi ke mizarim mishe chap va bala  */
   box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* gap: 1rem; */
 }
 .logo img {
   width: 100px;
